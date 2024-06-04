@@ -1,5 +1,5 @@
-### Hi there 
-Eu sou Hugo Nascimento, sou um programador Front end
+### Hi!
+I'm Hugo Nascimento, I'm a front end programmer
 <br>
 
 Languages and Tools: 
